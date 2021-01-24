@@ -1,0 +1,26 @@
+{
+  "name": "guia_perguntas",
+  "version": "1.0.0",
+  "description": "It's a questionnaire website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeGianni/Guia_Perguntas.git"
+  },
+  "author": "Felipe Gianni Bertivello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeGianni/Guia_Perguntas/issues"
+  },
+  "homepage": "https://github.com/FelipeGianni/Guia_Perguntas#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}
